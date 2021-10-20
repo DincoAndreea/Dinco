@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinco", "Dinco\Dinco.csproj", "{64D94556-366B-4722-AB3E-761C21EF5AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64D94556-366B-4722-AB3E-761C21EF5AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D94556-366B-4722-AB3E-761C21EF5AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D94556-366B-4722-AB3E-761C21EF5AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D94556-366B-4722-AB3E-761C21EF5AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F978DA56-6F9D-424C-9D86-87FCDA9C6951}
+	EndGlobalSection
+EndGlobal
